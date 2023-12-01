@@ -1,7 +1,8 @@
 
-Bu proje, Wikipedia metinleri içeren bir veri seti üzerinde metin ön işleme ve görselleştirme işlemlerini kapsamaktadır. Proje, ham metin verilerinin temizlenmesi, işlenmesi ve analiz edilmesi süreçlerini içermektedir.
+This project encompasses text preprocessing and visualization processes on a dataset containing Wikipedia texts. The project involves cleaning, processing, and analyzing raw text data.
 
-Proje Hedefleri
-* Metin verilerinin etkili bir şekilde temizlenmesi ve ön işleme adımlarının uygulanması.
-* Elde edilen verilerin görselleştirilerek analiz edilmesi.
-* Wikipedia metinleri üzerinden anlamlı bilgilerin çıkarılması.
+Project Objectives
+
+* Effectively cleaning and preprocessing text data.
+* Visualizing the processed data for analysis.
+* Extracting meaningful information from Wikipedia texts.
